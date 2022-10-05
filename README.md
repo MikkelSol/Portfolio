@@ -1,4 +1,4 @@
-# Welcome to my (Mikkel Solbakken) portfolio page!
+# Welcome to my, Mikkel Solbakken, portfolio page!
 
 Here are some of my projects: 
 
