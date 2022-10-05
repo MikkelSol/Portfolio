@@ -12,7 +12,7 @@ This page works as my portfolio of my different projects I have completed at Wes
 Projects: 
 
 
-Leaonardo Project:
+Leonardo Project:
 
 As part of the CMPT-375 class (Web Applications) at Westminster, I had a project with the end goal of helping real-life clients create a web application suited for their needs. 
 The client, The Leonardo Museum in Utah, asked our group to make it easier for members to get exclusive content, calender updates, membership cards and more.
@@ -22,9 +22,9 @@ to complete tasks efficent and effective. For the project I mainly focused on th
 and the front-end requires the knowledge of what is going on in the back-end as well. This helped me learn a lot of the whole process between back-end and front-end, essentically expanding my knowledge
 and helping the team figure out the best solution to any problems that came up during the coding process. 
 
-Link to project: https://github.com/cmpt375-2021fall/client-project-leonardo-dev-team.git 
 
+Software Project:
 
+As part of the CMPT-322 class (Software Engineering) at Westminster, I had a project creating a math game for 1st graders, simple and intui
 
-
-Link to project: https://github.com/cmpt322-2022spring/TeamSoftware/tree/main3
+Link to Project: https://github.com/cmpt375-2021fall/client-project-leonardo-dev-team.git 
