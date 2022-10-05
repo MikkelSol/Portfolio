@@ -22,4 +22,9 @@ to complete tasks efficent and effective. For the project I mainly focused on th
 and the front-end requires the knowledge of what is going on in the back-end as well. This helped me learn a lot of the whole process between back-end and front-end, essentically expanding my knowledge
 and helping the team figure out the best solution to any problems that came up during the coding process. 
 
-Link to Project: https://github.com/cmpt375-2021fall/client-project-leonardo-dev-team.git 
+Link to project: https://github.com/cmpt375-2021fall/client-project-leonardo-dev-team.git 
+
+
+
+
+Link to project: https://github.com/cmpt322-2022spring/TeamSoftware/tree/main3
