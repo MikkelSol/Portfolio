@@ -7,7 +7,7 @@ LinkedIn: https://www.linkedin.com/in/mikkelesolbakken/
 Resume: [RESUME_MIKKEL_E_SOLBAKKEN_UT.pdf](https://github.com/MikkelSol/Portfolio/files/11355953/RESUME_MIKKEL_E_SOLBAKKEN_UT.pdf)
 
 
-Here are some of my projects: 
+Check out some of my projects below: 
 
 # Senior Capstone Project
 
