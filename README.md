@@ -45,6 +45,5 @@ To complete the project, I had to first understand the rules of UNO and the diff
 
 Overall, the project helped me develop my programming skills in Java and taught me valuable lessons in computer science and software development. It was a challenging but rewarding experience that provided me with a solid foundation for future projects in computer science.
 
-Link to Project: https://github.com/MikkelSol/UNO [aFinal_project_Mikkel.zip](https://github.com/MikkelSol/Portfolio/files/11355903/aFinal_project_Mikkel.zip)
-
+Link to Project: https://github.com/MikkelSol/UNO 
 
