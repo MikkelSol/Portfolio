@@ -14,3 +14,7 @@ Link to Project: https://github.com/cmpt375-2021fall/client-project-leonardo-dev
 As part of the CMPT-322 class (Software Engineering) at Westminster, I had a project creating a simple math game targeted at 1st and 2nd graders. For the game my group of three came up with a simple 2D running game. The goal of the game was for the character to run from an object that wanted to catch them. To run from the object, the user would have to answer simple math games and the progress dependent on the user answered right or wrong. For the project we also wanted to have way for teachers to access their students progress, add and remove students, and for the students themselves to have a menu with different options. My contribution to the project was creating the login systems for students and teachers, the database to store scores and connect everything to the front-end of the project. As a result, the project helped me learn how to use C#, PHP, and SQL. In addition, the project also thaught me the usefullness of test plans and keep updating the projects status to figure out the speed we progressed and what needed to be prioritized.  
 
 Link to Project: https://github.com/cmpt322-2022spring/TeamSoftware/tree/main3
+
+# UNO Project
+
+As Part of the CMPT-201 class (Intro to Computer Science) at Westminster, I had a project to create a UNO player in Java, and create the best score possible, given all the different UNO rules. 
