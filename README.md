@@ -18,7 +18,7 @@ Various technologies could have been used for me to complete this project. Initi
 
 Overall, I was able to create a desktop application using primarily Java, Swing, and MySQL. The application can easily retrieve, store, and delete data from the database, it can also analyze and sort data so that the end user is able to get an idea of what ski pair is the fastest, given certain variables. The project ended up running super smoothly with limited bugs, and a new user should be able to navigate through the application, with some prior knowledge of testing ski equipment. 
 
-Link to Project: https://github.com/cmpt375-2021fall/client-project-leonardo-dev-team.git
+Link to Project: 
 
 
 # Leonardo Project
