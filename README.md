@@ -25,7 +25,7 @@ Overall, I was able to create a desktop application using primarily Java, Swing,
 
 Link to project: https://github.com/MikkelSol/skiTesting/tree/master
 
-PS: I included this project as it is my most interesting and advanced project I have done. It also covered the learning goals of software development and project management.
+PS: I included this project as it is my most interesting and advanced project I have done. It also covered the learning goals of software development and project management, and helped me develop critical thinking and creativity.
 
 
 # Leonardo Project
@@ -36,7 +36,7 @@ Overall this project helped me learn a lot of the whole process between back-end
 
 Link to project: https://github.com/cmpt375-2021fall/client-project-leonardo-dev-team.git
 
-PS: I included this project as it is my biggest group project I have done. Working with design majors was very valuable and help me get better at project management. 
+PS: I included this project as it is my biggest group project I have done. Working with design majors was very valuable and help me get better at project management, collaboration and communication. 
 
 # Software Project
 
@@ -46,7 +46,7 @@ Overall, the project helped me learn how to use C#, PHP, and SQL. In addition, t
 
 Link to project: https://github.com/cmpt322-2022spring/TeamSoftware/tree/main3
 
-PS: I included this project as it is a big project where moving image and figures was a big part of the project. This project also helped me understand concepts and processes for achieving organizational goals with information technology better. 
+PS: I included this project as it is a big project where moving image and figures was a big part of the project. This project also helped me understand concepts and processes for achieving organizational goals with information technology better, and helped me improve my communication skills. 
 
 # UNO Project
 
@@ -58,7 +58,7 @@ Overall, the project helped me develop my programming skills in Java and taught 
 
 Link to project: https://github.com/MikkelSol/UNO 
 
-PS: I included this project as it was very valuable for my learning. Also, being my first solo project in computer science it was super interesting and fun.
+PS: I included this project as it was very valuable for my learning. Also, being my first solo project in computer science it was super interesting and fun. This project also expanded my creativity and critical thinking skills.
 
 # Liquor Cabinet Project
 
@@ -74,7 +74,7 @@ Overall, the project was very valuable for me to learn more about creating datab
 
 Link to project: [Java application Mikkel.zip](https://github.com/MikkelSol/Portfolio/files/11357990/Java.application.Mikkel.zip)
 
-PS: I included this project as I found it super valuable for my development as a coder and help me get a better understanding of what databases are used for and the endless possibilities they give the users. 
+PS: I included this project as I found it super valuable for my development as a coder and help me get a better understanding of what databases are used for and the endless possibilities they give the users. This project help me develop as a coder, critical thinker, and expanded my creativity.
  
 
 
