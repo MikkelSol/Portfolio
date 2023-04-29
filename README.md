@@ -64,10 +64,10 @@ PS: I included this project as it was very valuable for my learning. Also, being
 
 As part of the CMPT-307 class (Databases) at Westminster, I had a project to create a database where a user could keep track of what kind of alcohol they had in their house, to make it easier for people to find out what sorts of drinks they had the ingredients for. My app use the database to:
 
-•	add liquor
-•	see all liquor and specific ones 
-•	what kind of tools you have
-•	Some sort of description of drinks you can make with the liquor
+•	Add liquor
+•	See all liquor and specific ones 
+•	What kind of tools you have
+•	Description of drinks you can make with the liquor
 •	Remove bottles that are empty
 
 Overall, the project was very valuable for me to learn more about creating database using multiple tables. Learning how to properly connect tables and create a plan of attack was super valuable for me and create a whole other knowledge of working with databases. 
