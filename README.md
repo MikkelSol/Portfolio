@@ -23,7 +23,9 @@ With the desktop application user are able to change, add, or remove information
 
 Overall, I was able to create a desktop application using primarily Java, Swing, and MySQL. The application can easily retrieve, store, and delete data from the database, it can also analyze and sort data so that the end user is able to get an idea of what ski pair is the fastest, given certain variables. The project ended up running super smoothly with limited bugs, and a new user should be able to navigate through the application, with some prior knowledge of testing ski equipment. 
 
-Link to Project: https://github.com/MikkelSol/skiTesting/tree/master 
+Link to project: https://github.com/MikkelSol/skiTesting/tree/master
+
+PS: I included this project as it is my most interesting and advanced project I have done. It also covered the learning goals of software development and project management.
 
 
 # Leonardo Project
@@ -32,7 +34,9 @@ As part of the CMPT-375 class (Web Applications) at Westminster, I had a project
 
 Overall this project helped me learn a lot of the whole process between back-end and front-end, essentically expanding my knowledge and helping the team figure out the best solution to any problems that came up during the coding process. 
 
-Link to Project: https://github.com/cmpt375-2021fall/client-project-leonardo-dev-team.git
+Link to project: https://github.com/cmpt375-2021fall/client-project-leonardo-dev-team.git
+
+PS: I included this project as it is my biggest group project I have done. Working with design majors was very valuable and help me get better at project management. 
 
 # Software Project
 
@@ -40,7 +44,9 @@ As part of the CMPT-322 class (Software Engineering) at Westminster, I had a pro
 
 Overall, the project helped me learn how to use C#, PHP, and SQL. In addition, the project also thaught me the usefullness of test plans and keep updating the projects status to figure out the speed we progressed and what needed to be prioritized.  
 
-Link to Project: https://github.com/cmpt322-2022spring/TeamSoftware/tree/main3
+Link to project: https://github.com/cmpt322-2022spring/TeamSoftware/tree/main3
+
+PS: I included this project as it is a big project where moving image and figures was a big part of the project. This project also helped me understand concepts and processes for achieving organizational goals with information technology better. 
 
 # UNO Project
 
@@ -50,8 +56,25 @@ To complete the project, I had to first understand the rules of UNO and the diff
 
 Overall, the project helped me develop my programming skills in Java and taught me valuable lessons in computer science and software development. It was a challenging but rewarding experience that provided me with a solid foundation for future projects in computer science.
 
-Link to Project: https://github.com/MikkelSol/UNO 
+Link to project: https://github.com/MikkelSol/UNO 
 
-#Liquor Locker
+PS: I included this project as it was very valuable for my learning. Also, being my first solo project in computer science it was super interesting and fun.
+
+# Liquor Cabinet Project
+
+As part of the CMPT-307 class (Databases) at Westminster, I had a project to create a database where a user could keep track of what kind of alcohol they had in their house, to make it easier for people to find out what sorts of drinks they had the ingredients for. My app use the database to:
+
+•	add liquor
+•	see all liquor and specific ones 
+•	what kind of tools you have
+•	Some sort of description of drinks you can make with the liquor
+•	Remove bottles that are empty
+
+Overall, the project was very valuable for me to learn more about creating database using multiple tables. Learning how to properly connect tables and create a plan of attack was super valuable for me and create a whole other knowledge of working with databases. 
+
+Link to project: [Java application Mikkel.zip](https://github.com/MikkelSol/Portfolio/files/11357990/Java.application.Mikkel.zip)
+
+PS: I included this project as I found it super valuable for my development as a coder and help me get a better understanding of what databases are used for and the endless possibilities they give the users. 
+ 
 
 
