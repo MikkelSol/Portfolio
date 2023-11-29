@@ -4,7 +4,8 @@ My name is Mikkel Solbakken and I am Senior at Westminster College.
 
 LinkedIn: https://www.linkedin.com/in/mikkelesolbakken/
 
-Resume: [RESUME_MIKKEL_E_SOLBAKKEN_UT.pdf](https://github.com/MikkelSol/Portfolio/files/11355953/RESUME_MIKKEL_E_SOLBAKKEN_UT.pdf)
+Resume: [RESUME_MikkelSolbakken.pdf](https://github.com/MikkelSol/Portfolio/files/13506449/RESUME_MikkelSolbakken.pdf)
+
 
 
 Check out some of my projects below: 
